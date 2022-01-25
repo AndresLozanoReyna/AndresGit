@@ -6,8 +6,8 @@ Must have
 - Visual Studio Code
 - NodeJS
 - Open cdm : run: npm init
-cdm: npm install cypress --save-dev
-cdm: npx cypress open     -- this will  install the Cypress
+- cdm: npm install cypress --save-dev
+- cdm: npx cypress open     -- this will  install the Cypress
 ![image](https://user-images.githubusercontent.com/98426004/151073465-f47379e4-2f8f-4be1-ba53-945fc1da79f7.png)
 
 
